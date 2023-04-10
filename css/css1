@@ -1,5 +1,8 @@
 /*https://raw.githubusercontent.com/Elisniper/Glass-Wave/master/release/Glass%20Wave.theme.css*/
 
+*{
+    color: red;
+}
 
 @import url(https://elisniper.github.io/Glass-Wave/Addons/StatusPicker.css);
 @import url(https://elisniper.github.io/Glass-Wave/Addons/ChatBubbles.css);
