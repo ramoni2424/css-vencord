@@ -436,7 +436,7 @@
     background-color: var(--var-black1);
     border-radius: 0 0 0 10px;
 }
-.checkbox-3gI2WR.selected-3KWlIC {
+.checkbox-3gI2WR.selected-3KWlIC { 
     background-color: var(--var-accent);
     border: 2px solid var(--var-accent);
 }
