@@ -1,34 +1,12 @@
 /**
- * @name Slate
- * @author Gibbu#1211 & Tropical#8908
- * @version 1.1
- * @invite TeRQEPb
- * @description An optimized, consistent, and functional theme for Discord based on GitHub's design language.
- * @source https://github.com/DiscordStyles/Slate/
- * @website https://discordstyles.github.io/slate-theme/
-*/
+ * @name dracula
+ * @description a dark mode discord theme based on the dracula color palette.
+ * @author slowstab
+ * @version 1.3.1
+ * @authorId 336678828233588736
+ * @website https://github.com/slowstab/dracula
+ * @source https://github.com/slowstab/dracula/blob/main/dracula.scss
+ */
 
-/*
-  Import Source Code 
-*/
-@import url("https://discordstyles.github.io/AdjustableServerWidth/base.css");
-@import url("https://discordstyles.github.io/Slate/dist/Slate.css");
-
-/*
-  Basic Variables
-  See available vars here: https://github.com/DiscordStyles/Slate/wiki
-*/
-:root {
-  /* Primary Colors */
-  --accent: 3, 102, 214;
-  --link-colour: 48, 144, 255;
-
-  /* Server List */
-  --server-icon-size: 35px;
-  --server-icon-spacing: 8px;
-  --server-container-padding: 10px;
-}
-
-/*
-  Place any Theme-specific Custom CSS Below here
-*/
+@import url("https://slowstab.github.io/dracula/BetterDiscord/source.css");
+@import url("https://mulverinex.github.io/legacy-settings-icons/dist-native.css");
