@@ -141,7 +141,7 @@
   --deprecated-text-input-border-disabled: hsl(216, calc(var(--saturation-factor, 1) * 7.2%), 13.5%);
   --deprecated-text-input-prefix: hsl(210, calc(var(--saturation-factor, 1) * 2.9%), 86.7%);
 }
-
+/*fondo de discord*/
 :root {
   --app-background: url("https://przemec.github.io/Novum/assets/images/app.png");
   --main-color: #992727;
